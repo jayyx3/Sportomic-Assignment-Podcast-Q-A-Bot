@@ -1,11 +1,8 @@
 fastapi==0.111.0
 uvicorn==0.29.0
-openai-whisper==20231117
-yt-dlp==2024.4.9
 faiss-cpu==1.8.0
 sentence-transformers==2.7.0
 groq==0.5.0
 python-dotenv==1.0.1
 numpy==1.26.4
 torch==2.2.2
-torchaudio==2.2.2
