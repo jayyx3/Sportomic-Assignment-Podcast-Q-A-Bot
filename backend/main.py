@@ -11,7 +11,7 @@ app = FastAPI(title="Podcast Q&A Bot Backend")
 # Enable CORS for http://localhost:3000 explicitly
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
