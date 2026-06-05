@@ -1,4 +1,4 @@
-# 🎙️ Podcast Q&A Bot — Sportomic AI Lab Assignment
+# 🎙️ Podcast Q&A Bot — Sportomic AI Lab Assignment-
 
 A fully local, cost-effective, and highly optimized **Retrieval-Augmented Generation (RAG)** Q&A bot. This application allows users to ask questions about the podcast conversation between **Elon Musk and Nikhil Kamath (People by WTF Ep. 16)**, returns precise, context-grounded answers, and provides a direct, one-click watch button to open YouTube at the exact timestamp where the topic is discussed.
 
